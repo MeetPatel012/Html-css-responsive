@@ -1,0 +1,72 @@
+.container {
+    margin: 0 auto;
+    padding: 0px 15px 0 15px
+}
+
+
+/* Menu section */
+label #btn {
+    left: 6px;
+    top: 28px;
+    font-size: 8px;
+    color: white;
+    padding: 6px 8px;
+    transition: all 0.5s;
+}
+
+.sidebar {
+    width: 243px;
+}
+
+/* Navbar Section */
+
+.nevbar-section .container ul {
+    margin-bottom: 12px;
+}
+
+.div-nav{
+    display: flex;
+    justify-content: unset;
+}
+
+.ecom-heading {
+  display: flex;
+  justify-content: 0;
+}
+.btn-right {
+  margin-left: 40.5rem;
+}
+.nav-right-section{
+    margin-left: 32rem;
+}
+.only-left {
+  margin-left: 1.5rem;
+}
+
+.align-item {
+    padding:15px;
+}
+.leftside-first {
+    gap: 1rem;
+}
+
+/* title of dashboard */
+
+/* first section */
+
+/* second section */
+
+/* third section */
+
+.three-card {
+    gap: 2rem;
+}
+
+/* fourth section */
+
+
+
+.third-shadow-left {
+    width: 20rem;
+    height: 36rem;
+}
